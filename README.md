@@ -1,4 +1,4 @@
-# Using-LSTM-model-to-predict-food-delivery-time
+# Using-LSTM-to-predict-food-delivery-time
 
 
 Using Long Short-Term Memory(LSTM) a type of recurrent Neural network model(RNN) is used to predict the time required to cover the distance between the restaurant and the customer. 
